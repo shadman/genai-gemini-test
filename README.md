@@ -2,20 +2,23 @@
 Simple script to test Gen AI with Gemini Model
 
 
-# Install dependencies
+## Install dependencies
 > google.generativeai
 > pip install IPython
 
 
-# Update API KEY in line number 9, with yours
+## API Key
+Update API KEY in line number 9, with yours
 > GOOGLE_API_KEY="XXccss233XXcccsszX"
 
 
-# Run to get output of our predefined input "What is the meaning of life?"
+## Run
+To get output of our predefined input "What is the meaning of life?"
 > python genai.py
 
 
-# Update `input` parameter in line number 21, to test your required text/input value 
+## Input / Predefined Textsswsssw 
+Update input arameter in line number 21, to test your required text/input value 
 
 
 # Get started:
