@@ -5,8 +5,7 @@ import google.generativeai as genai
 from IPython.display import display
 from IPython.display import Markdown
 
-# Or use `os.getenv('GOOGLE_API_KEY')` to fetch an environment variable.
-GOOGLE_API_KEY="AIzaSyBaAqUTlHXMyoP3TUqwLWvdTe44UxugmeE"
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
