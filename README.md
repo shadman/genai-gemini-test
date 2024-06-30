@@ -20,13 +20,7 @@ To get the output of our predefined input "What is the meaning of life?"
 ## Input / Predefined Text
 Update the input parameter on line number 21, to test your required text/input value 
 
-
-# Get started
-- https://aistudio.google.com/app/apikey
-- https://colab.research.google.com/
-- https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemini-api/docs/get-started/python.ipynb#scrollTo=5b4Hkfj-pm3p
-
-# Output
+## Output
 
 The meaning of life is a question that has been pondered by philosophers and theologians for centuries, and there is no one definitive answer. It is a deeply personal question, and the answer will vary depending on your individual beliefs and experiences.
 
@@ -57,3 +51,10 @@ It is important to remember that:
 * There is no single answer: The meaning of life is a deeply personal question.
 * It's okay to not know: There is no need to rush to find a definitive answer.
 * Rather than searching for a single, absolute answer, consider exploring different perspectives and engaging in self-reflection to find what gives your life meaning.
+
+
+## Get started
+- https://aistudio.google.com/app/apikey
+- https://colab.research.google.com/
+- https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemini-api/docs/get-started/python.ipynb#scrollTo=5b4Hkfj-pm3p
+
