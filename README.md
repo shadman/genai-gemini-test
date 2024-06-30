@@ -22,4 +22,6 @@ Update the input parameter on line number 21, to test your required text/input v
 
 
 # Get started
+https://aistudio.google.com/app/apikey
+https://colab.research.google.com/
 https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemini-api/docs/get-started/python.ipynb#scrollTo=5b4Hkfj-pm3p
