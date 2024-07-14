@@ -3,8 +3,8 @@ A simple script to test Gen AI with Gemini Model
 
 
 ## Install dependencies
-> google.generativeai
-> pip install IPython
+- google.generativeai
+- pip install IPython
 
 
 ## API Key
